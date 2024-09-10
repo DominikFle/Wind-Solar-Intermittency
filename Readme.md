@@ -11,4 +11,4 @@ https://www.agora-energiewende.org/data-tools/agorameter/chart/today/power_gener
 The plot generated in this notebook shows that electricity storage significantly mitigates the intermittency problem of solar and wind generation. The electricity storage is naively modelled as the `max()` function over windows of 4h, 8h, 24h and 48h.
 It can be seen, that a time scale of 24h and 48h is superior over 4h and 8h regarding minimum generation over the year. Also 48h does not perform significantly better than 24h.
 
-<img src="output.png" width="500">
+<img src="output.png" width="700">
