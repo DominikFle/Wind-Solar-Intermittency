@@ -1,4 +1,4 @@
-# An Argument for Short-Term Electricity Storage
+# A small Argument for Short-Term Electricity Storage
 
 The [colab notebook](https://colab.research.google.com/drive/1FS39nLjJtmC_aXzcK50ym7iYJUeJGC89?usp=sharing) was used to make an argument for wind and solar energy generation in combination with short-term electricity storage.
 
