@@ -1,6 +1,6 @@
 # An Argument for Short-Term Electricity Storage
 
-The [colab notebook](https://colab.research.google.com/drive/1FS39nLjJtmC_aXzcK50ym7iYJUeJGC89?usp=sharing) was used to make an argument on LinkedIn for wind and solar energy generation in combination with short-term electricity storage.
+The [colab notebook](https://colab.research.google.com/drive/1FS39nLjJtmC_aXzcK50ym7iYJUeJGC89?usp=sharing) was used to make an [argument on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7198217876934127616?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7198217876934127616%2C7198766570427273217%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287198766570427273217%2Curn%3Ali%3Aactivity%3A7198217876934127616%29) for wind and solar energy generation in combination with short-term electricity storage.
 
 ### Data is from:
 
